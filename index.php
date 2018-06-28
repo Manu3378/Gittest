@@ -11,7 +11,13 @@
         position:absolute;
         top : 45%;
         left : 45%;
-        color: blue;
+        color: black;
+        background-image : url('https://st.depositphotos.com/1004691/1269/i/950/depositphotos_12694735-stock-photo-france-and-argentina.jpg');
+        background-repeat : no-repeat;
+        text-align : center;
+        
+        
+      
     
     }
     </style>
